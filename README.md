@@ -1,5 +1,5 @@
-# 💫 About Me:
-Welcome to my GitHub, my name is Denis Bahnari and I love do code!
+# 💫 Welcome to my GitHub!
+My name is Denis Bahnari and I love do code!
 
 
 ## 🌐 Socials:
